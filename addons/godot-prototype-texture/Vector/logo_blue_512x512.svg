@@ -12,9 +12,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs533" /><g
      id="g527"
-     style="display:inline"><rect
-       x="0.70551002"
-       y="0.70551002"
+     style="display:inline"
+     transform="translate(-0.17634335,-0.17634335)"><rect
+       x="0.17634335"
+       y="0.17634335"
        width="512"
        height="512"
        fill="#c63525"
@@ -58,9 +59,9 @@
            cy="532"
            r="60"
            id="circle3855"
-           style="fill-opacity:1;fill:#2f7e9b" /><circle
+           style="fill:#2f7e9b;fill-opacity:1" /><circle
            cx="717"
            cy="532"
            r="60"
            id="circle3857"
-           style="fill-opacity:1;fill:#2f7e9b" /></g></g></g></svg>
+           style="fill:#2f7e9b;fill-opacity:1" /></g></g></g></svg>
