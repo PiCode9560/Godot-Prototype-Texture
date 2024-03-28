@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
+   width="512"
+   height="512"
    version="1.1"
    viewBox="0 0 512 512"
    xml:space="preserve"
@@ -58,9 +58,9 @@
            cy="532"
            r="60"
            id="circle3855"
-           style="fill-opacity:1;fill:#b7357a" /><circle
+           style="fill:#b7357a;fill-opacity:1" /><circle
            cx="717"
            cy="532"
            r="60"
            id="circle3857"
-           style="fill-opacity:1;fill:#b7357a" /></g></g></g></svg>
+           style="fill:#b7357a;fill-opacity:1" /></g></g></g></svg>
